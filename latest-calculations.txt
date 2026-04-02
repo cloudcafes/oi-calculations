@@ -1,0 +1,107 @@
+============================================================
+📈 NIFTY SIGNAL ENGINE SNAPSHOT
+============================================================
+Timestamp             : 2026-04-02 14:57:00
+Spot Price            : 22,657.70
+Time Since Open (min) : 342
+Days to Expiry (DTE)  : 5
+------------------------------------------------------------
+📊 RAW QUANTITATIVE METRICS (ATM ±3 Strikes)
+------------------------------------------------------------
+Weighted Call OI      : 128,203
+Weighted Put OI       : 128,619
+Delta Call OI         : 6,446
+Delta Put OI          : -1,641
+Call Velocity (15m)   : 6,446
+Put Velocity (15m)    : -1,641
+Call Acceleration     : 6,446
+Put Acceleration      : -1,641
+------------------------------------------------------------
+⚖️  Z-SCORE NORMALIZATION (Standard Deviations)
+------------------------------------------------------------
+Delta Call Norm (Z)   : -50.64
+Delta Put Norm (Z)    : -46.97
+PCR Trend Norm (Z)    : +0.00
+Gradient Norm (Z)     : -48.81
+------------------------------------------------------------
+🎯 SIGNAL ENGINE OUTPUT
+------------------------------------------------------------
+Base Score            : +0.00
+Bias                  : Neutral
+Confidence (0~3+)     : 48.81
+Market Regime         : Volatile
+Breakout Probability  : High
+Trap Status           : None
+------------------------------------------------------------
+📌 KEY LEVELS & TRENDS
+------------------------------------------------------------
+Support Level         : 22,500.0
+Resistance Level      : 22,500.0
+VWAP                  : 22,437.05
+Smart PCR             : 0.99  (Trend: -0.03)
+Persistent Put Writer : NO
+Persistent Call Writer: NO
+============================================================
+
+============================================================
+🔬 REGIME PILLARS DETAIL
+============================================================
+Price Direction       : 119.8 pts
+Price Range           : 154.5 pts
+Price Efficiency      : 0.775
+OI Bias               : BEARISH
+Net Call OI Change    : 6,446
+Net Put OI Change     : -1,641
+Both OI Surging       : NO
+Participation         : NEUTRAL
+Vol Ratio (curr/avg)  : 1.093
+============================================================
+
+============================================================
+💼 ACTIVE TRADE STATUS
+============================================================
+Status                : No active trade
+
+============================================================
+============================================================
+📋 TRADE-READY RECOMMENDATIONS
+============================================================
+
+── MARKET TREND & STRENGTH
+  Regime          : VOLATILE
+  Momentum        : STRONG_UP
+  HTF Bias        : BULLISH
+  VWAP            : 22,437.05
+  Market Strength : WEAK/NEUTRAL
+
+── PROBABILITY SCORING
+  Win Probability : 50%
+  Confidence Score: 48.81
+  Factors:
+    + Strong momentum (+20)
+    + No trap (+15)
+    + HTF BULLISH (+15)
+
+── REVERSAL RISK
+  Chance of Reversal: MEDIUM — volatile regime
+  Trap Status       : None
+
+── ENTRY / EXIT RULES
+  Signal            : NO_TRADE
+  Quality Filter    : FAIL — do not enter
+
+── TRADE PLAN
+  No trade this cycle.
+  Regime: VOLATILE  |  Trap: None
+  Wait for confirmed trend + OI alignment.
+
+── RISK MANAGEMENT
+  Capital           : Rs 100,000
+  Risk / Trade      : 1.0%  (Rs 1,000)
+  Daily Loss Limit  : Rs 2,000
+  Trades Today      : 0 / 3
+  Daily P&L         : Rs 0.00
+  Premium Hard SL   : 40% of entry premium
+  Trail Stop Trigger: 30% gain locks 50% of peak gain
+
+============================================================
