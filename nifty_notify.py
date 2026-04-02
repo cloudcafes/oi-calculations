@@ -23,10 +23,10 @@ from google import genai
 # ==========================================
 # CREDENTIALS  (hardcoded as instructed)
 # ==========================================
-GEMINI_API_KEY     = "AIzaSyBumWb-P3PGfc6efmFlc_qDTs61Abq1eYI"
+GEMINI_API_KEY     = ""
 GEMINI_MODEL       = "gemini-3.1-flash-lite-preview"          # stable public model; update when gemini-3.1-pro-preview goes GA
-TELEGRAM_BOT_TOKEN = "8747682342:AAG5f--5bePDBGjTFQDw0B7rLNGZFNkzQU8"
-TELEGRAM_CHAT_ID   = "-1003800058836"
+TELEGRAM_BOT_TOKEN = ""
+TELEGRAM_CHAT_ID   = ""
 
 # ==========================================
 # FILE PATHS  (all in same directory as this script)
